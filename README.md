@@ -87,16 +87,6 @@ entry_menu()
 
 # STEPS TO INSTALL AND RUN THE PROJECT
 
-## Python Installation Steps
-Download Python from the official website (https://python.org) and choose the correct installer for your operating system.​
-
-Run the installer and ensure you select "Add Python to PATH" during installation for easier command-line access.​
-
-After installation, confirm it works by opening the command prompt or terminal and typing:
-python --version
-
-This should output the installed Python version.​
-
 ## MySQL Installation Steps
 Go to the MySQL website (https://dev.mysql.com/downloads/installer/) and download the MySQL Installer for Windows.​
 
@@ -163,5 +153,6 @@ After making any changes, verify data by directly inspecting the database tables
 Automate the above test scenarios using Python testing tools like unittest or pytest when feasible, and ensure all test cases can be rerun reliably.​​
 
 Document any issues found during testing and steps to reproduce them for future debugging and improvement.
+
 
 
