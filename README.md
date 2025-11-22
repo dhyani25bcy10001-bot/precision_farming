@@ -1,4 +1,4 @@
-# precision_farming
+
 # 	PROJECT TITLE
       
  Precision agriculture
@@ -103,4 +103,5 @@ Simulate edge cases such as duplicate usernames, invalid field entries, and atte
 Check all user interface prompts and error messages for clarity and correctness.​
 After making any changes, verify data by directly inspecting the database tables or using the provided view features.​
 Automate the above test scenarios using Python testing tools like unittest or pytest when feasible, and ensure all test cases can be rerun reliably.​​
+
 Document any issues found during testing and steps to reproduce them for future debugging and improvement.
