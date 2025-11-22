@@ -52,6 +52,8 @@ Mysql.connector
 
 Sys
 
+Admin
+
 ## Functions used
 homepage()
 
@@ -153,6 +155,7 @@ After making any changes, verify data by directly inspecting the database tables
 Automate the above test scenarios using Python testing tools like unittest or pytest when feasible, and ensure all test cases can be rerun reliably.​​
 
 Document any issues found during testing and steps to reproduce them for future debugging and improvement.
+
 
 
 
